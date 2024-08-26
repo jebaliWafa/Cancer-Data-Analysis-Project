@@ -1,10 +1,11 @@
 # Statistical Analysis and Data Visualization for In-Depth Understanding of Multidimensional Cancer Data in Python
 
 ### Contributors
+- **Wafa Jebali**
 - **Abir Lassoued**
 - **Eya Bendoudou**
 - **Hamdi Belanez**
-- **Wafa Jebali**
+
 
 ## Objective
 This project utilizes advanced statistical analysis and visualization techniques to explore the characteristics of breast cancer using a multidimensional dataset. We developed a predictive model based on logistic regression and employed sophisticated visualizations to identify trends and risk factors associated with breast cancer. The primary goal is to contribute to prevention efforts and improve clinical interventions for breast cancer.
